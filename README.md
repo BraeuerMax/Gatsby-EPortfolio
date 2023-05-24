@@ -28,6 +28,6 @@ This will start a local development server at http://localhost:8000 where you ca
 <br />
 
 # Tasks:
-- add a new page for blogs and expand it with a new blog post. (.../blogs/firstpost)
+- Add a new page for blogs and expand it with a new blog post. (.../blogs/firstpost)
   - Implement the page in such a way that it uses the same layout and navbar as the pages that were previously implemented.
-- add a custom footer as a component to the layout. (Copyright can be kept or / extended)
+- Add a custom footer as a component to the layout. (Copyright can be kept or extended)
