@@ -5,7 +5,7 @@ export default function Sample() {
   return (
     <Layout>
       <div>
-          <h1>Sample Page</h1>
+          <h1>Sample Project</h1>
       </div>
     </Layout>
   )
